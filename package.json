@@ -1,0 +1,16 @@
+{
+  "name": "chai-aur-code-project-like-u-tube",
+  "version": "1.0.0",
+  "description": "this is a backend of chai aur code u tube ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "mongodb"
+  ],
+  "author": "gagan sen",
+  "license": "ISC"
+}
